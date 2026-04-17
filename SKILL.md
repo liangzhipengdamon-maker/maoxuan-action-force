@@ -1,5 +1,7 @@
 ---
 name: maoxuan-action-force
+version: 1.0.0
+author: damon-coding-lab
 description: >
   基于毛选六大核心思想的个人行动力系统。将毛泽东的战略思想（矛盾论、集中优势兵力、
   实践论、论持久战、运动战、纠正错误思想）转化为日常工作学习的行动框架和自我诊断工具。
